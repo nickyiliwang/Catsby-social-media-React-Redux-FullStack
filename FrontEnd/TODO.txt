@@ -1,0 +1,37 @@
+
+errors: 
+1. clicking comments button to open buttons
+preflight cors after button spam
+
+
+
+// features:
+
+
+live chat/ dms/ 
+mentions
+autocomplete
+
+/ sorting
+user search and post search
+Deleting your comments
+home page sorting
+
+
+// features 
+able to post vid, gif, pic,
+
+potential: instagram picture gallery
+more customizable personal profile
+
+notify with switch statement
+1. likes 2. comments 3. mentions 4. Following
+
+Refactoring:
+making code reusable
+
+twitter like features: 
+hashtag, mentions, 
+
+SearchBar Todo: 
+1. make it so clicking on user search result, directs the user to their user page
